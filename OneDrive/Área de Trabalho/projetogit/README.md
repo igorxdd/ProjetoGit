@@ -1,0 +1,1 @@
+Trilha 1 do estágio uol compasso: Aprendendo o básico do git
